@@ -1,9 +1,2 @@
-.idea/
-target/
-*.*.crc
-*.bk
-checkpoint-*
 *.iml
-2cc693a2*
-receivedBlockMetadata
-
+.idea/*
